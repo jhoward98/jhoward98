@@ -46,7 +46,7 @@
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🔒 **Caesar Cipher (Python)** | A classic encryption tool written in Python to demonstrate substitution ciphers. | [🔗 View Repo](https://github.com/YOURUSERNAME/caesar-cipher) |
+| 🔒 **Caesar Cipher (Python)** | A classic encryption tool written in Python to demonstrate substitution ciphers. | [🔗 View Repo](https://github.com/jhoward98/caesar-cipher/blob/main/README.md)) |
 | 🌐 **Global Network Path Analysis** | Used traceroute and ASN data to map the digital journey to Sydney Airport. | [🔗 View Repo](https://github.com/YOURUSERNAME/network-path-analysis) |
 | 🕵️ **Wireshark Forensics Toolkit** | Built and documented forensic capture and analysis techniques. | [🔗 View Repo](https://github.com/YOURUSERNAME/wireshark-forensics) |
 
