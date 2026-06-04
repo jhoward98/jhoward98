@@ -119,9 +119,7 @@ Relevant coursework:
 
 ## 📊 GitHub Stats
 
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhoward98&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoward98&layout=compact&theme=dark&hide_border=true)
+![Joshua's GitHub Stats](https://streak-stats.demolab.com?user=jhoward98&theme=dark&hide_border=true)
 
 ---
 
