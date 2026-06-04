@@ -119,9 +119,9 @@ Relevant coursework:
 
 ## 📊 GitHub Stats
 
-[![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhoward98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05A28&icon_color=E63946&text_color=FFFFFF)](https://github.com/jhoward98)
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhoward98&show_icons=true&theme=dark&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoward98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05A28&text_color=FFFFFF)](https://github.com/jhoward98)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoward98&layout=compact&theme=dark&hide_border=true)
 
 ---
 
